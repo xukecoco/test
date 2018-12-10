@@ -1,0 +1,16 @@
+
+
+int main()
+{
+	void	major_menu(void)
+	{
+		//system("clear");
+		puts("***请选择登录入口***");
+		puts("1、超级管理员登录");
+		puts("2、管理员登录");
+		puts("3、老师登录");
+		puts("4、学生登录");
+		puts("-------------------");
+		printf("请输入登录方式：");
+	}
+}
